@@ -1,5 +1,6 @@
 # AZ900-WebApp
 "App Service" es un servicio que se utiliza para las aplicaciones de grado empresarial este servivcio es un servicio web.
+
 Guía para crear una Web App dentro de Azure.
 
 Lo primero que debemo hacer, es dirigirnos al portal de [Azure](https://portal.azure.com/#home).
@@ -11,6 +12,9 @@ En en la vista de Home seleccionamos la opcion "Crear un recurso".
 
 ## Paso 2
 Nos aparaceran distintos servicios, elegimos 'Aplicación Web'.
+
+![2W](https://user-images.githubusercontent.com/99112892/173213894-2d35c5ee-80d9-43da-b2ea-a42dcb9ebe46.png)
+
 
 ## Paso 3
 ### Pestaña:Datos básicos
@@ -66,7 +70,7 @@ Las etiquetas nos sirven para cuando hay muchas personas trabajando dentro de un
 ![3W_Etiquetas](https://user-images.githubusercontent.com/99112892/173209750-a35c90d1-3afa-47e0-91e8-fc217b94ae36.png)
 
 ### Pestaña:Review+Create(Revisar y Crear)
-Va a tomar el codigo de la aplicación hecha(GitHub) y se lo traera a AZure para empezar a trabajar sobre de él.
+Va a tomar el codigo de la aplicación hecha(GitHub) y se lo traera a Azure para empezar a trabajar sobre de él.
 - Pulsamo en 'crear'.
 
 ![3W_RevisarCrear](https://user-images.githubusercontent.com/99112892/173209780-b715ec5a-ad81-4d64-bfd5-291b8efce3ee.png)
